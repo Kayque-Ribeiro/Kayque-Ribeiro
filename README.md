@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, meu nome é Kayque
 
-<!--
-**Kayque-Ribeiro/Kayque-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sobre Mim:
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por resolver problemas através do código e transformar dados em informações úteis. Atualmente, foco meus estudos no desenvolvimento de software e na estruturação de bancos de dados robustos.
 
-Here are some ideas to get you started:
+Atualmente trabalhando em projetos práticos com C#, tecnologias Web e ecossistema de dados na nuvem com Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias e Ferramentas:
+
+Linguagens: C#, JavaScript
+Front-end: HTML5, CSS3
+Banco de Dados: SQL Server, Azure SQL Database
+Ferramentas: VS Code, Visual Studio
+
+📫 Como me encontrar
+LinkedIn: 
+
+E-mail: 
